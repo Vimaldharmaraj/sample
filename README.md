@@ -14,7 +14,7 @@
 - 🔭 I'm working on some secret stuff 
   
 
-- 🌱 I’m currently learning Java , Programming languages
+- 🌱 I’m currently learning Java and Programming languages
   
 
 - 🤳 I'm Tech Enthusiast   
