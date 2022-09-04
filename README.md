@@ -28,7 +28,7 @@ import { vimaldharmaraj } from "Awesome";
 const languages = ["C", "C++", "Java","Python","Html","Css"];
 const databases = ["MySql","PostgreSql","Oracle"];
 
-Vijaydharmaraj.skills.push(...languages, ...databases);
+Vimaldharmaraj.skills.push(...languages, ...databases);
 ```
 
 ### Programming Languages  
@@ -143,6 +143,6 @@ Vijaydharmaraj.skills.push(...languages, ...databases);
 <br />
 
 -----
- Credits: <a href="https://vjaydharmaraj.me/">[vjaydharmaraj]</a>
+ Credits: <a href="https://vjaydharmaraj.me/">[vimaldharmaraj]</a>
 
 Last Edited on: 05/11/2021
