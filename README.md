@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Vijay Dharmaraj.<br/>I specialize in Ux/Ui designer,Web-Development and Software Development.</div>  
+### <div align="center">I'm Vimal Dharmaraj.<br/>I specialize in Ux/Ui designer,Web-Development and Software Development.</div>  
   
 
 - 🔭 I'm working on some secret stuff.  
@@ -23,7 +23,7 @@
 <br/>  
 
 ```javascript
-import { vijaydharmaraj } from "Awesome";
+import { vimaldharmaraj } from "Awesome";
 
 const languages = ["C", "C++", "Java","Python","Html","Css"];
 const databases = ["MySql","PostgreSql","Oracle"];
